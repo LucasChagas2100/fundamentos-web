@@ -59,5 +59,9 @@
     display: flex;
     flex-flow: row;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
+}
+
+#botaoEnviar{
+    visibility: hidden;
 }
